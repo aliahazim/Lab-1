@@ -11,7 +11,7 @@ class CustomText extends StatelessWidget {
       text,
       textAlign: TextAlign.center,
       style: const TextStyle(
-        color: Color.fromARGB(237, 170, 13, 71),
+        color: Color.fromARGB(236, 4, 172, 169),
         fontSize: 50,
         fontStyle: FontStyle.italic,
       ),
